@@ -36,6 +36,3 @@ O objetivo é oferecer uma experiência agradável e intuitiva para o usuário d
 1. Clone este repositório:
    ```bash
    git clone https://github.com/Cassiano-Hoffmann/fitcalc.git
-
-A fórmula usada é:
-
